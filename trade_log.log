@@ -1,0 +1,28 @@
+
+2024-12-11 20:30:52,411 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-12-11 20:30:52,427 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-12-11 20:30:52,617 - INFO - Bot started. Monitoring messages...
+2024-12-11 20:31:10,707 - INFO - Processing message from group: Telegram Signal Bot
+2024-12-11 20:31:10,708 - INFO - Hyperlink detected: https://etherscan.io/address/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
+2024-12-11 20:31:10,709 - INFO - Contract Address Extracted: 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
+2024-12-11 20:31:10,710 - INFO - Attempt 1: Swapping ETH to 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b...
+2024-12-11 20:31:11,024 - INFO - 1inch API response status: 200
+2024-12-11 20:31:11,025 - INFO - Simulation mode active. Transaction not broadcast.
+2024-12-11 20:31:11,026 - INFO - Transaction Data: {'from': '0x6a628e13b9b638be7a92f24b05579820244ea1ed', 'to': '0x111111125421ca6dc452d289314280a0f8842a65', 'data': '0xa76dfc3b00000000000000000000000000000000000000000000001913b18e961928554f200000000000000000000000d31d41dffa3589bb0c0183e46a1eed983a5e5978c49e22b3', 'value': '10000000000000000', 'gas': 0, 'gasPrice': '31294317808'}
+2024-12-11 20:31:11,028 - INFO - Trade executed successfully for contract 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b.
+2024-12-12 20:34:31,065 - INFO - Connected to Ethereum network.
+2024-12-12 20:34:31,086 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-12-12 20:34:31,101 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-12-12 20:34:31,450 - INFO - Bot started. Monitoring messages...
+2024-12-12 20:35:10,636 - INFO - Processing message from group: Telegram Signal Bot
+2024-12-12 20:35:10,637 - INFO - Hyperlink detected: https://etherscan.io/address/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
+2024-12-12 20:35:10,637 - INFO - Contract Address Extracted: 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
+2024-12-12 20:35:10,645 - INFO - Attempt 1: Swapping ETH to 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b...
+2024-12-12 20:35:10,942 - INFO - 1inch API response status: 200
+2024-12-12 20:35:10,943 - INFO - Simulation mode active. Transaction not broadcast.
+2024-12-12 20:35:10,943 - INFO - Transaction Data: {'from': '0x6a628e13b9b638be7a92f24b05579820244ea1ed', 'to': '0x111111125421ca6dc452d289314280a0f8842a65', 'data': '0xa76dfc3b0000000000000000000000000000000000000000000000193d3c8ab150877096200000000000000000000000d31d41dffa3589bb0c0183e46a1eed983a5e5978c49e22b3', 'value': '10000000000000000', 'gas': 0, 'gasPrice': '27674268324'}
+2024-12-12 20:35:10,946 - INFO - Trade executed successfully for contract 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b.
+2024-12-12 20:44:32,202 - INFO - Got difference for channel 2377019298 updates
+2024-12-12 20:44:50,968 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-12-12 20:44:50,985 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-12-12 20:44:50,996 - INFO - Not disconnecting (already have no connection)
